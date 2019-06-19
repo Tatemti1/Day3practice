@@ -1,6 +1,7 @@
 ## Day 1: 6th Grade Math Project
 
-You can use the [editor on GitHub](https://github.com/Tatemti1/Day3practice/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+For more information for getting setup with python: [Python Setup](pythondownload.md)
+You can use the [editor on GitHub](https://github.com/Tatemti1/Day3practice/edit/master/README.md) to maintain and preview the content in your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### Markdown
